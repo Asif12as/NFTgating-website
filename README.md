@@ -1,8 +1,6 @@
 # NFTgating-website
 This is the nft gating website, technologies we are using here express js, node js, react+vite, html,css,js,solidity,web3..
 
-# nftGating
-
 nftGating is a project built using Vite, React.js, and Node.js. It aims to provide a platform for implementing NFT gating, which allows access to certain content or features based on ownership of specific non-fungible tokens (NFTs). This README file provides an overview of the project and instructions for running it locally.
 
 ## Table of Contents
